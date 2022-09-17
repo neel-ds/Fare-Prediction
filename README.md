@@ -37,9 +37,9 @@ product delivery services strategically as per the requirement and domain
 expertise.
 
 Kindly read the project [documentation 
-file](https://github.com/neel-ds/Fare-Prediction) for getting started. For 
+file](https://github.com/neel-ds/Fare-Prediction/blob/main/Fare%20Prediction%20-%20Docs.pdf) for getting started. For 
 more details of the project, refer the detailed [report 
-file](https://github.com/neel-ds/Fare-Prediction). To download the dataset 
+file](https://github.com/neel-ds/Fare-Prediction/blob/main/Fare%20Prediction%20-%20Report.pdf). To download the dataset 
 [here](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data).
 
 Copyrights © 2022 by Neel Patel.
