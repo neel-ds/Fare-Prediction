@@ -26,8 +26,7 @@ providing services to the real-time customer. The results of the
 regression 
 showed that the proposed method has potential as far as different known 
 quality metrics. Furthermore, I implemented feature scaling and the 
-performance improved. In the deployment, the Gradient Boosting model  
-performed well with 4.47 RMSE & R2 score of 79.22%. The model has been 
+performance improved. In the deployment, the Gradient Boosting model performed well with 4.47 RMSE & R2 score of 79.22%. The model has been 
 registered in the MLflow so it can be served in real-time as a REST 
 endpoint which allows HTTPS requests and gives the output based on the 
 input request by the client. Later models can be more robust and precise 
